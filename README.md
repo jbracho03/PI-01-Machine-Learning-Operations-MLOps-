@@ -19,6 +19,9 @@ Proyecto Individual 1
 :white_medium_small_square: Cantidad de peliculas por plataforma.. <br>
 :white_medium_small_square: Actor que mas se repite segun plataforma y año. <br>
 
+:yellow_circle: **Link para instalar la API:** :black_circle:
+:white_medium_small_square: https://deta.space/discovery/r/qr4rgck6e8wkdetc <br>
+
 :yellow_circle: **Cómo escribir cada función en el navegador:** :black_circle: 
 
 :white_medium_small_square: https://detaspacepi01-1-d0046100.deta.app/max_duration/{year}/{platform}/{duration_type}<br>
