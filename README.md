@@ -4,7 +4,7 @@ Proyecto Individual 1
 :yellow_circle: **MENU:** :black_circle:
 * **objetivo.md** - _Explicacion del proyecto._
 * **MLOpsReviews** - _las bases de datos que recibí para trabajar._
-* **Datos_PI_2.csv** - _carpeta necesaria para el funcionamiento de la api._
+* **Datos_PI.csv** - _carpeta necesaria para el funcionamiento de la api._
 * **Desarrollo de la API.ipynb** - _notebook con pruebas de las queries._
 * **Transformacion de datos PI01.ipynb** - _paso a paso del ETL._
 * **main.py** - _el código de la API._
