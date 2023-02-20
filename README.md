@@ -2,7 +2,7 @@
 Proyecto Individual 1 
 
 :yellow_circle: **MENU:** :black_circle:
-* **objetivo.rd** - _Explicacion del proyecto._
+* **objetivo.md** - _Explicacion del proyecto._
 * **MLOpsReviews** - _las bases de datos que recibí para trabajar._
 * **Datos_PI_2.csv** - _carpeta necesaria para el funcionamiento de la api._
 * **Desarrollo de la API.ipynb** - _notebook con pruebas de las queries._
