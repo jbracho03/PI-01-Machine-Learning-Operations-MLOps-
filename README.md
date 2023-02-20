@@ -21,7 +21,7 @@ Proyecto Individual 1
 
 :yellow_circle: **Link para instalar la API:** :black_circle:
 
-:white_medium_small_square: https://deta.space/discovery/r/qr4rgck6e8wkdetc <br>
+:white_medium_small_square: https://deta.space/discovery/r/wrjxapchfkdndkyv <br>
 
 :yellow_circle: **Cómo escribir cada función en el navegador:** :black_circle: 
 
