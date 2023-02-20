@@ -35,7 +35,7 @@ Proyecto Individual 1
 :white_medium_small_square: https://detaspacepi01-1-d0046100.deta.app/max_duration/2012/n/min <br>
 :white_medium_small_square: https://detaspacepi01-1-d0046100.deta.app/get_score_count/n/4.0/2011 <br>
 :white_medium_small_square: https://detaspacepi01-1-d0046100.deta.app/get_count_platform/amazon <br>
-:white_medium_small_square: https://detaspacepi01-1-d0046100.deta.app/get_actor/disney/2010 <br>
+:white_medium_small_square: https://detaspacepi01-1-d0046100.deta.app/get_actor/disney/2013 <br>
 
 :warning: **Sintaxis a tener en cuenta al escribir una consulta:** :warning:<br>
 :white_medium_small_square: Todo debe estar escrito en minúsculas.  <br>
