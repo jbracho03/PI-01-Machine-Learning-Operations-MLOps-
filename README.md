@@ -14,7 +14,7 @@ Proyecto Individual 1
 
 :yellow_circle: **Las funciones que componen la API son:** :black_circle:
 
-:white_medium_small_square: Pelicula con mayor duracion cpor Año, Plataforma y Tipo de duracion. <br>
+:white_medium_small_square: Pelicula con mayor duracion por Año, Plataforma y Tipo de duracion. <br>
 :white_medium_small_square: Cantidad de peliculas por plataforma con un puntaje mayor a XX en determinado año. <br>
 :white_medium_small_square: Cantidad de peliculas por plataforma.. <br>
 :white_medium_small_square: Actor que mas se repite segun plataforma y año. <br>
@@ -45,7 +45,7 @@ Proyecto Individual 1
             'h': 'hulu',
             'd': 'disney+',
             'as': 'amazon'  <br>
-:white_medium_small_square: Al escribir el sore solo aceptara si se escribe de esta manera = 4.0.<br>            
+:white_medium_small_square: Al escribir el score solo aceptara si se escribe de esta manera = 4.0.<br>            
 :white_medium_small_square: En caso de la query no arroje resultados, un mensaje explicativo se imprimirá en pantalla.<br>
 :white_medium_small_square: En caso de que se ingrese una plataforma inválida, un mensaje explicativo se imprimirá en pantalla. <br>
 
