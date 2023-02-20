@@ -36,11 +36,12 @@ Proyecto Individual 1
 :warning: **Sintaxis a tener en cuenta al escribir una consulta:** :warning:<br>
 :white_medium_small_square: Todo debe estar escrito en minúsculas.  <br>
 :white_medium_small_square: Las plataformas que admite son: Amazon, Disney, Hulu y Netflix. <br>
-:white_medium_small_square: En la primera consulta al insertar platform, solo aceptara: 
+:white_medium_small_square: En la primera y segunda consulta al insertar platform, solo aceptara: 
             'n': 'netflix',
             'h': 'hulu',
             'd': 'disney+',
-            'a': 'amazon'  <br>
+            'as': 'amazon'  <br>
+:white_medium_small_square: Al escribir el sore solo aceptara si se escribe de esta manera = 4.0.<br>            
 :white_medium_small_square: En caso de la query no arroje resultados, un mensaje explicativo se imprimirá en pantalla.<br>
 :white_medium_small_square: En caso de que se ingrese una plataforma inválida, un mensaje explicativo se imprimirá en pantalla. <br>
 
