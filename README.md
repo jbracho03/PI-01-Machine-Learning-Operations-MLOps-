@@ -30,7 +30,7 @@ Proyecto Individual 1
 :white_medium_small_square: https://detaspacepi01-1-d0046100.deta.app/get_count_platform/{platform} <br>
 :white_medium_small_square: https://detaspacepi01-1-d0046100.deta.app/get_actor/{platform}/{year} <br>
 
-:yellow_circle: **Queries de ejemplo para probar la api** :black_circle: 
+:yellow_circle: **Queries de ejemplo para probar la api:** :black_circle: 
 
 :white_medium_small_square: https://detaspacepi01-1-d0046100.deta.app/max_duration/2012/n/min <br>
 :white_medium_small_square: https://detaspacepi01-1-d0046100.deta.app/get_score_count/n/4.0/2011 <br>
