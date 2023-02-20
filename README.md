@@ -8,6 +8,8 @@ Proyecto Individual 1
 * **Transformacion de datos PI01.ipynb** - _paso a paso del ETL._
 * **main.py** - _el código de la API._
 * **requirements.txt** - _dependencias necesarias para que funcione._
+* **EDA.ipynb** - _transformacion de datos._
+* **recomendacion.ipynb** - _sistema de recomendacion de peliculas segun usuario._
 
 :yellow_circle: **Las funciones que componen la API son:** :black_circle:
 
